@@ -3,6 +3,10 @@
     {
       "version": "1.2",
       "update": "Fixed the Permissions Table not Syncing with new roles"
+    },
+    {
+      "version": "1.5",
+      "update": "Permissions Added"
     }
   ],
   "FiveM Ped Spawner": [
